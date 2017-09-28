@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<movie>
+
+    <item>
+        <no>1</no>
+        <title>Alien</title>
+        <genre>SF, action, advanture</genre>
+    </item>
+
+    <item>
+        <no>2</no>
+        <title>noting Hill</title>
+        <genre>melo</genre>
+    </item>
+
+    <item>
+        <no>3</no>
+        <title>wonder women</title>
+        <genre>SF, action</genre>
+    </item>
+
+    <item>
+        <no>4</no>
+        <title>conjering</title>
+        <genre>horror</genre>
+    </item>
+
+</movie>
